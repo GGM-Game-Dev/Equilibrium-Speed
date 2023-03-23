@@ -10,3 +10,5 @@ To succeed in Equilibrium Speed, players must find the perfect balance between s
 With its competitive multiplayer mode, players can race against other players from around the world, climbing the ranks and earning rewards for their performance. Equilibrium Speed also features a robust single-player campaign, where players can compete in a series of races and challenges to unlock new cars, upgrades, and customization options.
 
 Overall, Equilibrium Speed is a must-play for fans of racing games. With its stunning graphics, intuitive gameplay, and emphasis on finding the perfect balance between speed and control, Equilibrium Speed is sure to keep players coming back for more.
+
+For more info: https://github.com/GGM-Game-Dev/Equilibrium-Speed/wiki (HE)
